@@ -43,7 +43,7 @@
 ## **перед запуском закомментировать строку с ненужной БД**
 
 * запустить IntelliJ IDEA с проектом с депозитария
-  * git clone ```https://github.com/JapaneseeMen/MalovDiplomQA/tree/main```
+  * git clone ```https://github.com/JapaneseeMen/MalovDiplomQA```
 
   * перейти в папку с проектом 
     * cd ```MalovDiplomQA```
