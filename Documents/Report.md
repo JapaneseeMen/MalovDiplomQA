@@ -22,7 +22,7 @@
 
 Соотношение успешных/неуспешных тестов: 32/6
 
-![AllureReport]
+![AllureReport](https://github.com/JapaneseeMen/MalovDiplomQA/blob/main/Documents/Screenshot.png)
 
 **Общие рекомендации**
 
